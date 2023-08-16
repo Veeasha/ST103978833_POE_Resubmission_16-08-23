@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 
 /**
  *
- * @author Ethan
+ * @author Veeasha
  */
 public class LoginTest {
 
